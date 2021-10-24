@@ -4,5 +4,5 @@ CREATE TABLE "users" (
     "name" TEXT NOT NULL,
     "github_id" INTEGER NOT NULL,
     "avatar_url" TEXT NOT NULL,
-    "logins_url" TEXT NOT NULL
+    "login" TEXT NOT NULL
 );
